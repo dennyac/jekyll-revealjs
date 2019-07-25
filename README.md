@@ -19,7 +19,7 @@ A Jekyll-based framework for creating presentations based on Reveal.js and Markd
 
 If you like [Reveal.js][] for creating your online presentations, like the site management [Jekyll][] gives you and like [Markdown][] because of its easy and clean look, here's an easy way to create a presentation using Jekyll, Markdown and Reveal.js.
 
-See the [example presentation][] created using the contents in this repository and `jekyll build` or `docker-compose up`.
+See the [example presentation][] created using the contents from [Azure Cosmic Notes][] and `jekyll build` or `docker-compose up`.
 
 ## Howto
 
@@ -221,9 +221,10 @@ This is only displayed in the speaker notes.
 [reveal.js]: http://lab.hakim.se/reveal-js/#/
 [jekyll]: http://jekyllrb.com/
 [markdown]: http://daringfireball.net/projects/markdown/
-[example presentation]: http://dploeger.github.io/jekyll-revealjs/example
+[example presentation]: http://www.dennyac.com/jekyll-revealjs/#/
 [install jekyll]: http://jekyllrb.com/docs/installation/
 [options]: https://github.com/hakimel/reveal.js#configuration
 [dependencies]: https://github.com/hakimel/reveal.js#dependencies
 [posts]: https://jekyllrb.com/docs/posts/#creating-posts
 [theme]: https://github.com/hakimel/reveal.js#theming
+[Azure Cosmic Notes]: https://azurecosmosdb.github.io/CosmicNotes/
