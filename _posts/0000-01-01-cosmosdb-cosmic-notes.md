@@ -325,3 +325,7 @@
 #### Configure multiple write regions in Cosmos DB
 
 [![Configure multiple write regions in Cosmos DB](imgs/54.png)<!-- .element height="75%" width="75%" -->](imgs/54.png)
+
+---
+
+[![Coming Soon](imgs/ComingSoon.png)<!-- .element height="75%" width="75%" -->](imgs/ComingSoon.png)
